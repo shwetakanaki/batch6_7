@@ -5,6 +5,10 @@ print(a+b)
 print("`nbnfv")
 print(a-b)
 
+<<<<<<< Updated upstream
 hiiii
 gygfyf`
 bhhb
+=======
+print("hrrrr")
+>>>>>>> Stashed changes
