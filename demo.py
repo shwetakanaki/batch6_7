@@ -8,7 +8,10 @@ print(a-b)
 <<<<<<< Updated upstream
 hiiii
 gygfyf`
+<<<<<<< HEAD
 bhhb
 =======
 print("hrrrr")
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 778b6f8 (ggihghyghyfhy)
